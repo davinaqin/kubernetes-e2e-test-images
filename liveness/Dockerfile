@@ -1,0 +1,2 @@
+FROM gcr.io/kubernetes-e2e-test-images/liveness:1.0
+
